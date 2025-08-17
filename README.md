@@ -34,7 +34,6 @@ esp32-internet-logger/
 │   ├── internet_check.h
 │   ├── web_server.c        # Minimal HTTP server exposing status
 │   ├── web_server.h
-│   ├── config_template.h   # Example configuration file (Wi-Fi SSID & password)
 │   └── CMakeLists.txt
 ├── CMakeLists.txt
 ├── sdkconfig               # ESP-IDF build config
