@@ -37,8 +37,8 @@ esp32-internet-logger/
 │   └── CMakeLists.txt
 ├── CMakeLists.txt
 ├── sdkconfig               # ESP-IDF build config
-├── README.md               # This file
-└── .gitignore              # Ignore secrets like config.h
+├── README.md
+└── .gitignore
 ```
 
 ---
